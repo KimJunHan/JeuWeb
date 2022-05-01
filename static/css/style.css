@@ -1,0 +1,5 @@
+/*nav { background-color: darkblue; font-size:  150%; text-align: center}*/
+/*nav a {color:whitesmoke}*/
+
+/* a태그 밑줄 제거하기 */
+a {text-decoration:none;}
