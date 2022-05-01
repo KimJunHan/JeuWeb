@@ -1,3 +1,5 @@
+
+#git push
 # app.py는 플라스크에서 기본적인 앱을 담을 수 있는 파일 이름이다.
 # 플라스크도 하나의 패키지다. interpreiter에서 Flask를 install 하면 jinja도 다운된다.
 # 탬플릿은 html을 저장할 수 있다.
